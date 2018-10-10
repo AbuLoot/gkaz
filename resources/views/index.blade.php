@@ -43,7 +43,7 @@
               <li class="nav-item"><a class="scrollto nav-link" href="#main">Главная</a></li>
               <li class="nav-item"><a class="scrollto nav-link" href="#projects">Наши работы</a></li>
               <li class="nav-item"><a class="scrollto nav-link" href="#advantages">Преимушество</a></li>
-              <li class="nav-item"><a class="scrollto nav-link" href="#3d">Дизайн Интерьера</a></li>
+              <!-- <li class="nav-item"><a class="scrollto nav-link" href="#how">Дизайн Интерьера</a></li> -->
               <li class="nav-item"><a class="scrollto nav-link" href="#contacts">Контакты</a></li>
             </ul>
           </div>
