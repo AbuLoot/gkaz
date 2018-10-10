@@ -1,0 +1,267 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1240px;
+  }
+}
+.banner-outer h4 {
+  color: #fff;
+  letter-spacing: 2px;
+}
+.app-section {
+  color: #fff;
+  padding: 35px 0;
+  background-color: #044c39;
+}
+.app-section h2,
+.app-section h3,
+.app-section h4 {
+  color: #fff;
+}
+@media (max-width: 479px) {
+  .app-section h2,
+  .app-section h3 {
+    font-size: 24px;
+  }
+  .banner-outer h4 {
+    font-size: 18px;
+  }
+}
+
+.bg-blue {
+  width: 100%;
+  height: 100%;
+  padding: 80px 0;
+  background-color: rgba(4, 76, 57, 0.60);
+}
+
+.bg-blue h3, .bg-blue h4 {
+
+  color: #fff;
+}
+.bg-yellow {
+  padding: 0;
+  background-color: #ffd801;
+}
+.bg-yellow-2 {
+  width: 100%;
+  height: 100%;
+  padding: 80px 0;
+  background-color: rgba(255, 216, 1, 0.85);
+}
+.bg-grey {
+  padding: 0;
+  background-color: #F4F5F2;
+}
+.bg-grey-2 {
+  width: 100%;
+  height: 100%;
+  padding: 80px 0;
+  background-color: rgba(244, 245, 242, 0.75);
+}
+.bg-dark-2 {
+  padding: 80px 0;
+  background-color: rgba(0, 0, 0, 0.50);
+}
+.bg-dark-2 h3, .bg-dark-2 h4 {
+  color: #fff;
+}
+.bg-gold {
+  color: #dac37d;
+}
+.bg-beige {
+  padding: 0;
+  background-color: #f7eabc;
+}
+.bg-dark-blue {
+  padding: 0;
+  background-color: #415169;
+}
+.header-sec {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6fca0b+0,2f8c11+100 */
+  /*background: #2cd895; /* Old browsers */
+  /*background: -moz-linear-gradient(top, #6fca0b 0%, #2f8c11 100%); /* FF3.6-15 */
+  /*background: -webkit-linear-gradient(top, #6fca0b 0%,#2f8c11 100%); /* Chrome10-25,Safari5.1-6 */
+  /*background: linear-gradient(to bottom, #6fca0b 0%,#2f8c11 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fca0b', endColorstr='#2f8c11',GradientType=0 ); /* IE6-9 */
+  /*background-color: #6fca0b;*/
+  background-color: #333333;
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.11);
+  -moz-box-shadow:    0px 5px 5px 0px rgba(50, 50, 50, 0.11);
+  box-shadow:         0px 5px 5px 0px rgba(50, 50, 50, 0.11);
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.text-white {
+  color: #fff;
+}
+.text-gold {
+  color: #d6be78;
+}
+.text-green {
+  color: #6dc80c;
+}
+
+.my-gallery > figure {
+  margin-bottom: 33px;
+}
+
+/* OFFER SECTION */
+.offer-section-1 {
+  background-image: url(../images/proekty/9/5.72.JPG);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+.offer-section-1 > div {
+  min-height: 550px;
+  background: rgb(65,81,105);
+  background: linear-gradient(90deg, rgb(39, 43, 47) 45%, rgba(255,255,255,0) 75%);
+}
+.offer-section-3 {
+  background-image: url(../images/proekty/10/gkaz.jpg);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+.offer-section-3 > div {
+  min-height: 520px;
+  background: rgb(65,81,105);
+  background: linear-gradient(90deg, rgb(39, 43, 47) 45%, rgba(255,255,255,0) 75%);
+}
+.offer-section-1 h3, .offer-section-3 h3 {
+  color: #fff;
+  text-align: right;
+}
+
+.offer-section-2 {
+  background-image: url(../images/proekty/9/5.192.JPG);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+.offer-section-2 > div {
+  min-height: 550px;
+  background: rgb(65,81,105);
+  background: linear-gradient(270deg, rgb(253, 253, 253) 45%, rgba(255,255,255,0) 75%);
+}
+.offer-section-2 h3 {
+  color: #3c3c3c;
+}
+
+@media (max-width: 479px) {
+  .offer-section-1, .offer-section-3 {
+    background-size: cover;
+    background-position: top left;
+  }
+  .offer-section-2 {
+    background-size: cover;
+    background-position: top right;
+  }
+  .offer-section-1 > div, .offer-section-2 > div, .offer-section-3 > div {
+    min-height: 350px;
+  }
+  .offer-section-1 > div, .offer-section-3 > div {
+    background: linear-gradient(90deg, rgb(39, 43, 47) 10%, rgba(255,255,255,0) 90%);
+  }
+  .offer-section-2 > div {
+    background: linear-gradient(270deg, rgb(253, 253, 253) 10%, rgba(255,255,255,0) 90%);
+  }
+  .offer-section-1 h3, .offer-section-3 h3 {
+    text-align: left;
+  }
+  .offer-section-2 h3 {
+    text-align: right;
+  }
+}
+
+
+.tabs > li > a {
+  cursor: pointer;
+}
+.item:hover {
+  cursor: pointer;
+}
+.bg-process {
+  background-image: url(../images/proekty/10/29416821_788501781347113_3127227136314703872_n.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bg-process-2 {
+  background-image: url(../images/mebel/proizvodstvo-mebeli.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.why-outer h3 {
+  text-shadow: 1px 1px 30px #000000;
+}
+.why-outer h5 {
+  color: #fff;
+  font-weight: 500;
+  text-shadow: 1px 1px 30px #000000;
+  margin: 25px 0;
+}
+@media (max-width: 768px) {
+  .offer-custom h3 {
+    font-size: 30px;
+    margin: 30px 0;
+  }
+}
+@media (max-width: 479px) {
+  .order-xs-1 {
+    -ms-flex-order:1;
+    order:1
+  }
+  .order-xs-2 {
+    -ms-flex-order:2;
+    order:2
+  }
+}
+
+/* ------------------------------------------------------------------------ */
+/*  FIXED BUTTON
+/* ------------------------------------------------------------------------ */
+.fixed-button ,
+.fixed-button2 {
+  display: none;
+}
+@media (max-width: 480px) {
+
+  .fixed-button ,
+  .fixed-button2 {
+    display: block;
+    position: fixed;
+    z-index: 2000;
+    left: 15px;
+  }
+  .fixed-button {
+    bottom: 20px;
+  }
+  .fixed-button2 {
+    bottom: 75px;
+  }
+  .fixed-button a,
+  .fixed-button2 a {
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    /*text-indent: -9999px;*/
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    -webkit-transition: 0.2s all linear;
+    -moz-transition: 0.2s all linear;
+    -o-transition: 0.2s all linear;
+    transition: 0.2s all linear;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+  }
+  .fixed-button a {
+    background-color: #28a745;
+    background: linear-gradient(135deg, #4dc368, #28a745);
+  }
+  .fixed-button2 a {
+    background-color: #5F58FA;
+    background: linear-gradient(135deg, #5F58FA, #a777e3);
+  }
+}
