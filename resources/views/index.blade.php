@@ -405,7 +405,7 @@
 </section>
 
 <!-- REVIEWS -->
-<section class="testimonial-outer" id="reviews">
+<!-- <section class="testimonial-outer" id="reviews">
   <div class="container">
     <div class="head">
       <h3>Отзывы наших клиентов</h3>
@@ -414,7 +414,7 @@
       <div class="col-sm-12 col-xs-12">
         <div class="testimonial-slider owl-carousel">
           <div class="testimonial-box item">
-            <!-- <figure><img src="images/placeholder-107x107.png" alt=""></figure> -->
+            <figure><img src="images/placeholder-107x107.png" alt=""></figure>
             <p>Доброго дня всем! Мне хочется поблагодарить ребят из eliteroom.kz за проделанную работу. За короткий срок они нам сделали мебель для детской, кухни, прихожей. Ребята очень вежливые, пунктуальные, аккуратные,и у них цена не дорогая  по сравнению с другими фирмами. В общем наша семья осталась довольной заказом, теперь и впредь будем только у них заказывать и сами, и советуем знакомым и друзьям!</p>
             <strong>- Маулет</strong>
           </div>
@@ -422,7 +422,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- SERVICES -->
 <section class="why-outer" id="3d">
@@ -531,7 +531,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- Copy Rights -->
   <div class="copy-rights-section">
     <div class="container">
