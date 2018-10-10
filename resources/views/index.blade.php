@@ -525,7 +525,7 @@
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Казахстан, г. Алматы, ул. Немировича-Данченко 51а</p>
             <a href="tel:+77001449944"><i class="fa fa-phone" aria-hidden="true"></i> +7 700 144 9944</a>
             <a href="whatsapp://send?phone=+77001449944"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i> +7 700 144 99 44</a>
-            <a href="/mailto:eliteroom.company@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> eliteroom.company@gmail.com</a>
+            <a href="/mailto:gkaz.mebel@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> gkaz.mebel@gmail.com</a>
           </div>
         </div>
       </div>
